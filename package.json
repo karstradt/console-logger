@@ -1,0 +1,19 @@
+{
+  "name": "console-logger",
+  "version": "1.0.0",
+  "description": "This is a library to give console output in colorful and structured manner",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "node ./test/logger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karstradt/console-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karstradt/console-logger/issues"
+  },
+  "homepage": "https://github.com/karstradt/console-logger#readme"
+}
