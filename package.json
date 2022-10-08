@@ -2,7 +2,7 @@
   "name": "@karstradt/console-logger",
   "version": "1.0.0",
   "description": "This is a library to give console output in colorful and structured manner",
-  "main": "./src/main.js",
+  "main": "index.js",
   "scripts": {
     "test": "node ./test/logger.js"
   },
